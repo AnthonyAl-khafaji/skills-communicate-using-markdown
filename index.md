@@ -8,3 +8,8 @@ Lebron is the best !
 
 ```
 
+- [x] add a header 
+- [x] add a image
+- [x] add a code example
+- [x] make a task list 
+- [ ] merge my pull request
